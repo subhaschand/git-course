@@ -1,2 +1,0 @@
-username=subash
-password=subash900s
