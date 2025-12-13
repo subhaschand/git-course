@@ -1,3 +1,2 @@
-This is my first project
-author -subashchandra
-company -subash
+# git-course
+Git course Demo
