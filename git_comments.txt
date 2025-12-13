@@ -1,0 +1,15 @@
+GIT INFORMATION AND HISTORY
+============================
+
+GIT COMMIT LOG:
+62c58c5 (HEAD -> main, origin/main, origin/HEAD) Initial commit
+
+GIT STATUS:
+On branch main
+Your branch is up to date with 'origin/main'.
+nothing to commit, working tree clean
+
+GIT CONFIGURATION:
+Repository: subhaschand/git-course
+Current Branch: main
+Default Branch: main
